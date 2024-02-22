@@ -1,2 +1,2 @@
-# Tea-panas
+# Tea-tesnett
 Tea tesnet
